@@ -1,0 +1,12 @@
+{
+  "name": "haredas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dr_BoBy_",
+  "dependencies": {
+    "discord.js": "^13.5.0"
+  },
+  "scripts":{
+    "start": "node index.js"
+  }
+}
