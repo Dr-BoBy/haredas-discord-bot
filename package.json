@@ -6,6 +6,9 @@
   "dependencies": {
     "discord.js": "^13.5.0"
   },
+  "engines": {
+    "node": "17.3.0"
+  },
   "scripts":{
     "start": "node index.js"
   }
