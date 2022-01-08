@@ -4,10 +4,10 @@
   "main": "index.js",
   "author": "Dr_BoBy_",
   "dependencies": {
-    "discord.js": "13.5.0"
+    "discord.js": "^13.5.0"
   },
   "engines": {
-    "node": "17.3.0"
+    "node": "16.x"
   },
   "scripts":{
     "start": "node index.js"
